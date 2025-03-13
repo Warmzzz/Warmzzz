@@ -1,6 +1,6 @@
-# Hi there 👋, My name is Raffaele Gigantelli and I'm an IT student
+# Hi there 👋 
+My name is Raffaele Gigantelli and I'm an IT student
 ---
-My personal website : https://raffaelegigantelli.vercel.app/
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Warmzzz&show_icons=true&theme=github_dark)
 
